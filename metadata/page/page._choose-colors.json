@@ -1,0 +1,32 @@
+{
+  "_id": "page._choose-colors",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page._choose-colors--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page._choose-colors--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "Red",
+          "name": "red"
+        },
+        {
+          "_id": "page._choose-colors--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "Green",
+          "name": "green"
+        },
+        {
+          "_id": "page._choose-colors--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "Blue",
+          "name": "blue"
+        }
+      ],
+      "legend": "Choose Colors"
+    }
+  ],
+  "url": "/choose-colors"
+}

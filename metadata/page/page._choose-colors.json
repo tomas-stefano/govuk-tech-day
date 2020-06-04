@@ -10,19 +10,22 @@
           "_id": "page._choose-colors--checkboxes--checkbox.auto_name__3",
           "_type": "checkbox",
           "label": "Red",
-          "name": "red"
+          "name": "red",
+          "value": "red"
         },
         {
           "_id": "page._choose-colors--checkboxes--checkbox.auto_name__4",
           "_type": "checkbox",
           "label": "Green",
-          "name": "green"
+          "name": "green",
+          "value": "green"
         },
         {
           "_id": "page._choose-colors--checkboxes--checkbox.auto_name__5",
           "_type": "checkbox",
           "label": "Blue",
-          "name": "blue"
+          "name": "blue",
+          "value": "blue"
         }
       ],
       "legend": "Choose Colors"

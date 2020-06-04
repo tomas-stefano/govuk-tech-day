@@ -1,0 +1,13 @@
+{
+  "_id": "page._second-page",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page._second-page--email.auto_name__1",
+      "_type": "email",
+      "label": "Email",
+      "name": "user-email"
+    }
+  ],
+  "url": "/second-page"
+}

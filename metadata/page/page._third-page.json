@@ -1,0 +1,27 @@
+{
+  "_id": "page._third-page",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page._third-page--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page._third-page--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page._third-page--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Is yes or no?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "/third-page"
+}

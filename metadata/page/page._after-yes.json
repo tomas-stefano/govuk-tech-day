@@ -1,0 +1,18 @@
+{
+  "_id": "page._after-yes",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page._after-yes--textarea.auto_name__2",
+      "_type": "textarea",
+      "label": "Fill free to add anything",
+      "name": "auto_name__2"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "/after-yes"
+}
